@@ -1,2 +1,2 @@
 # Blanddit
- A social media website
+ A social media school project
